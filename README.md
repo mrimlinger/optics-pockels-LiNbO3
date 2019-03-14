@@ -1,6 +1,6 @@
 # optics-pockels-LiNbO3
 
-Course: ELEC4620 - Photonics and optical communications
+Course: HKUST - ELEC4620 - Photonics and optical communications
 
 Professor: Dr. Andrew Poon
 
